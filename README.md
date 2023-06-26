@@ -2,6 +2,13 @@
 
 the dataset link  https://files.grouplens.org/datasets/movielens/ml-latest-small.zip
 
+- Team Names
+****************************
+  1) Doha Metwally Salah
+  2) Bassant Said
+  3) Mohanad Ahmed
+  4) Eslam Adel Elgendy
+
 this project consists of two files 
 
  1) project_code_recommender.ipynb
