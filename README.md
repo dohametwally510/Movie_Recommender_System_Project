@@ -5,7 +5,7 @@ the dataset link  https://files.grouplens.org/datasets/movielens/ml-latest-small
 - Team Names
 ****************************
   1) Doha Metwally Salah
-  2) Bassant Said
+  2) Bassant Saied
   3) Mohanad Ahmed
   4) Eslam Adel Elgendy
 
